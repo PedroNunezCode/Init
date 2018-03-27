@@ -1,0 +1,1 @@
+Type "ipconfig /all" at the command prompt, then press the "Enter" key. Look for the field labeled "DNS Servers." The first address is the primary DNS server.
