@@ -1,0 +1,1 @@
+Using crontab I was able to run my sh files at a specific times of the week by setting up a file located at /etc/crontab

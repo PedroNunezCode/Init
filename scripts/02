@@ -1,0 +1,1 @@
+echo "* 4 * * * 0 apt-get -y update && apt-get -y upgrade >> /var/log/update_script.log" >> /etc/crontab
